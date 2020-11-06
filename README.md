@@ -5,7 +5,7 @@ NeuVector PT 2
 
 ## Introduction
 
-Welcome to Part 2 of automating Container security into the CI/CD Pipeline targeted at the Operations role. This is second part of a 2 part series.  If you haven't read Part 1 <insert link>, please do so before reading this article.
+Welcome to Part 2 of automating Container security into the CI/CD Pipeline targeted at the Operations role. This is second part of a 2 part series.  If you haven't read [Part 1](https://github.com/IBM/TenStepstoAutomateContainerSecurity-Pt1), please do so before reading this article.
 
 ## Security Policy as Code and Behavioral Learning
 
